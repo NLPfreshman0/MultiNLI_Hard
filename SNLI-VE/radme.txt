@@ -1,1 +1,1 @@
-
+hard set of SNLI-VE
